@@ -1,3 +1,25 @@
+<h1 align="center">Hi 👋, I'm Prakrish Agrahari</h1>
+<h3 align="center">I am a Computer Science student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keensha&label=Profile%20views&color=0e75b6&style=flat" alt="keensha" /> </p>
+
+- 🔭 I’m currently working on **Restaurant Website**
+
+- 🌱 I’m currently learning **ReactJs, NodeJs**
+
+- 👯 I’m looking to collaborate on **Open Source Contribution**
+
+- 🤝 I’m looking for help with **C++ Game Development**
+
+- 💬 Ask me about **mongodb, Postgresql**
+
+- 📫 How to reach me **prakrishagrahari7.com**
+
+  <!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prakrishagraha7@gmail.com) 
