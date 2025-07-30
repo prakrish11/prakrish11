@@ -9,11 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source Contribution**
 
-- 🤝 I’m looking for help with **C++ Game Development**
-
 - 💬 Ask me about **mongodb, Postgresql**
 
-- 📫 How to reach me **prakrishagrahari7.com**
+- 📫 How to reach me **prakrishagraha7@gmail.com**
 
   <!-- Snake Game Repo View -->
 
